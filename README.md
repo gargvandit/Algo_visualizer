@@ -5,18 +5,6 @@ Best viewed on Laptops or switch to portrait mode on mobile screens.
 <a href="https://vkg2000.github.io/Algo-Visualizer/">Click here</a> to visit the webpage.
 
 
-
-## Contributors
-
-* **Akarsh Rana**\
-	[Github](https://github.com/akarshrana) |
-	[LinkedIn](https://www.linkedin.com/in/akarsh-rana/) |
-	ar35@iitbbs.ac.in
-* **Vishal Gupta**\
-	[Github](https://github.com/vkg2000) |
-	[LinkedIn](https://www.linkedin.com/in/vishal-kumar-gupta-165ba61a2/) |
-	vkg10@iitbbs.ac.in
-
 ## Colors during sorting
 Elements become green after sorting is finished.
 
@@ -42,14 +30,6 @@ Becomes green when all are sorted.\
 Elements which are being compared appear red and pink. Sorted elements appear cyan.\
 <br>
 ![bubble-sort](https://github.com/vkg2000/Algo-Visualizer/blob/master/readme_files/bubble.gif)
-
-
-#### Contributing
-Create issues with appropriate tags or contact us.
-
-#### License
-
-This project is licensed under the MIT License
 
 #### Acknowledgment
 
